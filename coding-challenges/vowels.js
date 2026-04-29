@@ -2,6 +2,7 @@ const string = "The quick brown fox jumps over the lazy dog";
 
 
 function getStrWithNoVowels (str){
+    if (typeof str !== 'string') return '';
     const vowels = ["a","e","i","o","u"];
     let results = "";
 
