@@ -29,3 +29,16 @@ for (let i = 0; i <= str.length - k; i++) {
   console.log(str.slice(i, i + k));
 }
 // "Aji", "jit", "it_", "t_K" ...
+
+----------------------------------------------------------------------------------------
+slice  → "S"afe   — original safe rehta hai
+splice → "P"ainful — original ko pain hota hai (mutate) 😄
+
+
+Feature:
+                slice            splice
+Works           onArray          StringArray 
+OriginalArray   Nahi badal       badal deta hai
+ReturnsNew      array/string     Removed elements
+Parameters      (start, end)     (start, deleteCount, ...items)
+Use             caseCopy/Extract  Add/Remove/Replace
