@@ -3,6 +3,11 @@
 ## 1. Tell Me About Yourself?
 I'm a Frontend Developer with 5 years of experience, primarily in React.js ecosystem. My responsibilities include designing and building scalable component architecture, leading frontend development for key modules, mentoring junior developers, and conducting code reviews. I work closely with backend teams for API design, with UX for pixel-perfect implementations. I've also handled performance optimization —  like lazy loading, code splitting, and bundle size reduction — and have contributed to tech stack decisions and frontend best practices in my team.
 
+# **Q2) Why do you want to change/switch company?**
+
+**Answer:**
+I have learned a lot in my current role, but now I am looking for a more challenging environment where I can work on larger-scale products, contribute to architectural decisions, take more ownership of the frontend strategy, and grow both technically and professionally
+
 ## 2. What Are Your Strengths & Weaknesses?
 **Strength 1 — Problem Solving:** "Main complex React performance issues quickly identify kar leta hun. Ek project mein maine render time 3 seconds se 0.4 seconds tak laya sirf memoization aur code splitting se."
 
