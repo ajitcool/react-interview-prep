@@ -8,9 +8,24 @@ I'm a Frontend Developer with 5 years of experience, primarily in React.js ecosy
 **Answer:**
 I have learned a lot in my current role, but now I am looking for a more challenging environment where I can work on larger-scale products, contribute to architectural decisions, take more ownership of the frontend strategy, and grow both technically and professionally
 
-## 2. What Are Your Strengths & Weaknesses?
-**Strength 1 — Problem Solving:** "Main complex React performance issues quickly identify kar leta hun. Ek project mein maine render time 3 seconds se 0.4 seconds tak laya sirf memoization aur code splitting se."
+# Q3) Have you ever had a direct connect with client?
+Yes, I have had direct client interactions throughout my career. I have participated in requirement gathering sessions, sprint demos, and feedback calls. In some projects, I have also proactively clarified UI/UX expectations directly with the client to avoid last-minute changes. Over time, this has helped me understand not just the technical requirements but also the business goals behind them — which ultimately improved the quality and relevance of my deliverables
 
+# Q4) Have you ever given a client interview?
+Yes, I have given client interviews multiple times for project onboarding. The discussions typically revolve around my technical expertise in React.js, problem-solving approach, and how I can contribute to their existing system. I make sure to clearly communicate my past experience, the kind of projects I have worked on, and how I can add value to their team. Over the years, I have become more confident in these interactions and have successfully cleared client interviews for international projects as well."
+
+# Q5) What factors should we consider while creating an app?
+Before development, we should consider the target audience, performance, security, scalability, responsive design, and accessibility. Also, maintain clean architecture and proper documentation.
+
+# Q6) Suppose you need API from backend team & they are not providing it to you, how will you handle this situation?
+I'd first communicate politely with the backend team to understand their blockers. Meanwhile, I'd create mock data or temporary JSON responses to continue frontend development and avoid delays.
+
+# Q12) Have you ever deployed your app?
+"Yes, I've deployed React applications using CI/CD pipelines on platforms like AWS, Netlify, and Vercel. I also handle environment configuration during deployment."
+
+
+# 2. What Are Your Strengths & Weaknesses?
+**Strength 1 — Problem Solving:** "Main complex React performance issues quickly identify kar leta hun. Ek project mein maine render time 3 seconds se 0.4 seconds tak laya sirf memoization aur code splitting se."
 **Strength 2 — Ownership:** "Main sirf assigned kaam nahi karta — agar koi bug ya better approach dikhti hai, main proactively fix karta hun bina kisi ke bolne ka wait kiye."
 
 **Strength 3 — Quick Learner:** "Maine 5 saal mein khud ko functional compoenent se Hooks tak, JavaScript se TypeScript tak continuously upgrade kiya."
