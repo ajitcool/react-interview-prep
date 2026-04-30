@@ -1,7 +1,7 @@
 # HR Interview Questions and Answers
 
 ## 1. Tell Me About Yourself?
-Main ek React developer hun with 5 years of experience at TCS. Maine apne career mein production-grade applications banaye hain using React, TypeScript, aur Redux. Main primarily frontend architecture, performance optimization, aur component design pe focused raha hun. Mera sabse bada strength yeh hai ki main complex UI problems ko simple, maintainable solutions mein convert kar leta hun. Ab main apne career ka next chapter shuru karna chahta hun — ek product company mein jahan main sirf execute nahi karun, balki architecture decisions lun aur team ko lead karun.
+I'm a Frontend Developer with 5 years of experience, primarily in React.js ecosystem. My responsibilities include designing and building scalable component architecture, leading frontend development for key modules, mentoring junior developers, and conducting code reviews. I work closely with backend teams for API design, with UX for pixel-perfect implementations. I've also handled performance optimization —  like lazy loading, code splitting, and bundle size reduction — and have contributed to tech stack decisions and frontend best practices in my team.
 
 ## 2. What Are Your Strengths & Weaknesses?
 **Strength 1 — Problem Solving:** "Main complex React performance issues quickly identify kar leta hun. Ek project mein maine render time 3 seconds se 0.4 seconds tak laya sirf memoization aur code splitting se."
